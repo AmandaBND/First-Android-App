@@ -61,5 +61,6 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:layout_marginTop="16dp"
+        android:backgroundTint="#C3C0C0"
         android:text="Cancel" />
 </LinearLayout>
